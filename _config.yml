@@ -23,4 +23,4 @@ github:
   repo:           https://github.com/lingshaowei/lingshaowei.github.io
 
 # Navigation bar
-pages_list:       {'About': '/about','Archive': '/archive','Feed': '/atom.xml'}
+pages_list:       {'Archive': '/archive','About': '/about','Feed': '/atom.xml'}
